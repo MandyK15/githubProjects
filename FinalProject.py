@@ -1,13 +1,9 @@
 # Name: FinalProject
 # Author: Mandeep Kaur
-# Date Created: April 7, 2022
 
 # Description: The  program to to get customer information and the details of the call he/she wants from the technician 
 #               working in Rogers Company. It prompts the customer which type of call it wants and then present the details 
 #               to the it which was selecetd.
-
-# The file path to print call information in a text file
-fileName = r"C:\Python\Project\Call-Information.txt"
 
 # Storing some values in the variales
 selfInstallFee = "$60"
